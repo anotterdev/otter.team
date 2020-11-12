@@ -1,4 +1,4 @@
 # otter.team
 
 
-https://blog.otter.team
+[Blog](https://blog.otter.team)
