@@ -1,2 +1,4 @@
 # otter.team
-content for otter.team
+
+
+https://blog.otter.team
